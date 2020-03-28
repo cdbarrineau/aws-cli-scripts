@@ -1,6 +1,8 @@
 #!/bin/sh
 
-# Create a bucket
+# Create a bucket.  The bucket name must be unique 
+# across all of AWS.  The bucket is only created within 
+# the region configured in your AWS config file in ~/.aws/config
 echo Creating Bucket...
 aws s3 mb s3://cdb-script-bucket
 
