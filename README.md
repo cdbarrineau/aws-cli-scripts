@@ -17,7 +17,7 @@ Installation of the AWS CLI tool is required and can be downloaded for multiple 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public v3 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
