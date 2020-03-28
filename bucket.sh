@@ -13,4 +13,3 @@ echo Hello, AWS! > myFile.txt
 # Put the file into the bucket.
 echo Putting file into bucket...
 aws s3 cp myFile.txt s3://cdb-script-bucket/my-file.txt
-
